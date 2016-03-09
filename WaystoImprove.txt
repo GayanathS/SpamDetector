@@ -1,0 +1,2 @@
+To improve the spam detector, instead of looking for repeating words it should look for words that dont belong in the context of the email. An example would be phrases such as meet singles
+or credit card offers.
